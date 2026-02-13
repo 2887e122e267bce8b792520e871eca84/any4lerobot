@@ -20,6 +20,8 @@ wandb
 # Data
 data
 outputs
+sample_lerobot_data
+any4lerobot_env
 
 # Apple
 .DS_Store
