@@ -22,6 +22,9 @@ data
 outputs
 sample_lerobot_data
 any4lerobot_env
+lerobot2rlds/converted_data/
+Miniforge3-Linux-x86_64.sh
+video_h264.mp4
 
 # Apple
 .DS_Store

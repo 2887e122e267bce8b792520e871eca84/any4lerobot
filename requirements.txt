@@ -1,0 +1,5 @@
+ffmpeg-python
+huggingface_hub
+tensorflow-datasets
+numpy
+lerobot[all]
